@@ -5,8 +5,8 @@ Homework 1:
 	c) Realize a sort function. It must be able to meet a variety of data types, including the fraction class;  
 	d) Think about how the sort function can be better shared, how to rewrite the traditional sort function [sort (int arr, int n), where n is the number of array members] to meet the need to meet the needs;  
   
-Homework 2:
-	 Achieve Vector:
+Homework 2:  
+	 Achieve Vector:  
 	 a) Data must be organized in an equal-length multi-block mode to support basic data management functions, including additions and deletions at any location;  
 	 b) Prevent the header files from being loaded multiple times;  
 	 c) Note the use of pointers, constructors, copy constructors, and destructors, especially the proper release of the new allocated memory space in the destructor;  
